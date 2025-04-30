@@ -80,7 +80,7 @@ p{
     background-color: aqua;
 }
 }
-@media (min-width: 650px) {
+@media (min-width: 600px) {
   .cardord {
     grid-template-columns: 1fr 1fr 1fr;
     background-color: lightgray;
